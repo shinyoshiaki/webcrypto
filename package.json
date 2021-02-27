@@ -33,7 +33,7 @@
   ],
   "main": "build/webcrypto.js",
   "module": "build/webcrypto.es.js",
-  "types": "index.d.ts",
+  "types": "build/index.d.ts",
   "files": [
     "build/**/*.{ts,js}",
     "index.d.ts",
